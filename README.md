@@ -36,12 +36,10 @@ python latihan/04_bersihkan_teks.py
 python latihan/05_split_join.py
 python latihan/06_pencarian_kata.py
 ```
-
 Jalankan tugas utama dengan perintah:
 ```bash
 python tugas/normalisasi_data_mahasiswa.py
 ```
-
 ## 4. Algoritma Tugas 4
 1. Membaca nama lengkap dan kode kelas.
 2. Membersihkan spasi nama menggunakan strip, split, dan join.
@@ -60,9 +58,6 @@ python tugas/normalisasi_data_mahasiswa.py
 | 2 | fATHIYYAH mUTHMAINNAH | kelas b | Fathiyyah Muthmainnah | KELAS-B | 2 | FM | Sesuai |
 | 3 | BUDI | pmtk 01 | Budi | PMTK-01 | 1 | B | Sesuai |
 | 4 | siti nur aisyah | kelas c | Siti Nur Aisyah | KELAS-C | 3 | SNA | Sesuai |
-
-Catatan: status akhir ditetapkan setelah seluruh pengujian
-dijalankan di VS Code.
 
 ## 6. Refleksi
 Kesulitan yang ditemukan adalah menangani spasi berlebih
