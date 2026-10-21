@@ -20,8 +20,8 @@ data mahasiswa.
 - `latihan/05_split_join.py`
 - `latihan/06_pencarian_kata.py`
 - `tugas/normalisasi_data_mahasiswa.py`
-- `README.md`
 - `.gitignore`
+- `README.md`
 - `kuis formatif_pertemuan 10`
 
 ## 3. Cara Menjalankan
